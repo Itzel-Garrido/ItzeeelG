@@ -1,0 +1,31 @@
+ body {
+            font-family: Arial, sans-serif; 
+            line-height: 1.6; 
+            margin: 0; 
+            padding: 0; 
+            background-color: #f0f0f0; 
+        }
+        .container {
+            max-width: 960px; 
+            margin: 0 auto; 
+            padding: 10px;
+        }
+        table {
+            width: 100%; 
+            border-collapse: collapse; 
+            margin-bottom: 20px; 
+        }
+        table, th, td {
+            border: 1px solid #ccc; 
+        }
+        th, td {
+            padding: 10px; 
+            text-align: center; 
+        }
+        img {
+            max-width: 100%; 
+            height: auto; 
+        }
+        footer p {
+            margin: 0; 
+        }
